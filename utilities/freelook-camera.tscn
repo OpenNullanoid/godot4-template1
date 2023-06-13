@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://clehxxsgcrrhr"]
+
+[ext_resource type="Script" path="res://utilities/freelook-camera.gd" id="1_rr58r"]
+
+[node name="FreeLookCamera" type="Camera3D"]
+transform = Transform3D(1, 0, 0, 0, 0.98872, 0.149777, 0, -0.149777, 0.98872, -3.319, 2.435, 4.146)
+script = ExtResource("1_rr58r")
