@@ -4,7 +4,7 @@ This is a template for developing games in Godot 4 as well as learning more abou
 ### Usage
 To use this project you would have to have installed a dependencies.
 + Godot Mono 4.0+ - The engine that this is developed on
-+ .NET Core 6.0+ / Mono - Might include C# code in the future
++ .NET Core 6.0+ / Mono - Might include C# code in the future(Is required for godot-mono)
 + Git w/ LFS - Git with LFS(Large File Support) since it uses LFS for storing assets
 + *Linux w/ GLibC - Non standard distribution such as void would not work as the physics engine requires GLibC.*
 
